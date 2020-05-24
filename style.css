@@ -8,8 +8,8 @@
   z-index: 1;
   background: transparent;
   border: 1px solid #000000;
-  width: 650px;
-  height: 650px;
+  width: 550px;
+  height: 550px;
   display: grid;
   grid-template: repeat(13, 7.6923076923%)/repeat(13, 7.6923076923%);
   list-style-type: none;
@@ -670,9 +670,9 @@
 
 .crossword-clues {
   position: absolute;
-  top: 0;
-  left: 650px;
-  width: 650px;
+  top: 600px;
+  left: 0px;
+  width: 550px;
 }
 
 .crossword-clues__list {
